@@ -70,3 +70,14 @@ body{
   border-radius: 50%;
   overflow: hidden;
 }
+
+.profile-photo img{
+  height: 6rem;
+}
+
+.instagram-login{
+  background-color: #0095f6;
+  color: #fff;
+  padding: 8px;
+  border-radius: 4px;
+}
